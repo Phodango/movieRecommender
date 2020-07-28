@@ -1,0 +1,7 @@
+                  Fold 1  Fold 2  Fold 3  Fold 4  Mean    Std     
+RMSE (testset)    0.8196  0.8275  0.8103  0.8233  0.8202  0.0063  
+Fit time          35.60   35.35   35.83   35.74   35.63   0.18    
+Test time         0.81    0.86    0.89    0.86    0.86    0.03    
+RMSE: 0.8154
+
+
